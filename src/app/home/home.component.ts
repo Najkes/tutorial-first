@@ -7,6 +7,7 @@ import {HousingLocationComponent} from '../housing-location/housing-location.com
   standalone: true,
   imports: [CommonModule, HousingLocationComponent],
   template: `
+  tet
     <section>
       <form>
         <input type="text" placeholder="Filter by city" />

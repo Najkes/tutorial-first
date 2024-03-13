@@ -19,6 +19,7 @@ import {HousingLocationComponent} from '../housing-location/housing-location.com
   `,
   styleUrls: ['./home.component.css'],
 })
+
 export class HomeComponent {
 
 }
